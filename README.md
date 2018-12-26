@@ -5,7 +5,7 @@ Instruction covering AWS services and tools used to automate the creation and ma
  
 ## Resources Covered:
 
-VPC, EC2, Lambda, RDS, and deploying containerized microservices with Docker. Includes hands-on, detailed labs making use of AWS Command Line Interface, AWS CloudFormation, and the Python SDK.
+VPC, EC2, Lambda, RDS, and deploying containerized microservices with Docker. Includes hands-on, detailed instructions making use of AWS Command Line Interface, AWS CloudFormation, and the Python SDK.
 
 ## Description
 
