@@ -1,9 +1,9 @@
-# amazon-web-services-automation
+# Amazon-web-services-automation
 Automation in AWS with CloudFormation, CLI, and SDKs
 
 Instruction covering AWS services and tools used to automate the creation and maintenance of AWS infrastructure.
  
-## Resources Covered:
+## Services Covered:
 
 VPC, EC2, Lambda, RDS, and deploying containerized microservices with Docker. Includes hands-on, detailed instructions making use of AWS Command Line Interface, AWS CloudFormation, and the Python SDK.
 
